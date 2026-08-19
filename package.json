@@ -1,0 +1,25 @@
+{
+  "name": "hub-de-leitura-cypress-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavoanderson/hub-de-leitura-cypress-ui.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gustavoanderson/hub-de-leitura-cypress-ui/issues"
+  },
+  "homepage": "https://github.com/gustavoanderson/hub-de-leitura-cypress-ui#readme",
+  "dependencies": {
+    "cypress": "^15.21.0"
+  },
+  "allowScripts": {
+    "cypress@15.21.0": true
+  }
+}
